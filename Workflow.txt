@@ -1,0 +1,15 @@
+Workflow Testing - Process:
+
+#Understand the business workflow
+
+#Understand the resource requirements.
+
+#Develop test cases using various techniques (use case, decision table, etc.).
+
+#Verify the flow with various user types (viz - Admin, Update user, View).
+
+#Perform positive and negative tests.
+
+#Compare the expected and actual results and find log defects.
+
+#Fix defects and deploy.
